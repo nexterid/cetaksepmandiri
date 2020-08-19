@@ -1,0 +1,49 @@
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\bin\Debug\CetakSEP.exe.config
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\bin\Debug\CetakSEP.exe
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\bin\Debug\CetakSEP.pdb
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\obj\Debug\CetakSEP.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\obj\Debug\CetakSEP.MainForm.resources
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\obj\Debug\CetakSEP.csproj.GenerateResource.Cache
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\obj\Debug\CetakSEP.exe
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\obj\Debug\CetakSEP.pdb
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\obj\Debug\CetakSEP.FormPanel.resources
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\bin\Debug\Newtonsoft.Json.dll
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\bin\Debug\RestSharp.dll
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\bin\Debug\GemBox.Spreadsheet.xml
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\bin\Debug\Newtonsoft.Json.xml
+D:\DOCUMENTS\SharpDevelop Projects\CetakSEP\CetakSEP\obj\Debug\CetakSEP.FormSetting.resources
+C:\CetakSEP\CetakSEP\bin\Debug\CetakSEP.exe.config
+C:\CetakSEP\CetakSEP\bin\Debug\CetakSEP.exe
+C:\CetakSEP\CetakSEP\bin\Debug\CetakSEP.pdb
+C:\CetakSEP\CetakSEP\bin\Debug\NUnit.Framework.dll
+C:\CetakSEP\CetakSEP\obj\Debug\CetakSEP.csprojResolveAssemblyReference.cache
+C:\CetakSEP\CetakSEP\obj\Debug\CetakSEP.FormSetting.resources
+C:\CetakSEP\CetakSEP\obj\Debug\CetakSEP.MainForm.resources
+C:\CetakSEP\CetakSEP\obj\Debug\CetakSEP.csproj.GenerateResource.Cache
+C:\CetakSEP\CetakSEP\obj\Debug\CetakSEP.exe
+C:\CetakSEP\CetakSEP\obj\Debug\CetakSEP.pdb
+D:\cetaksep\CetakSEP\bin\Debug\CetakSEP.exe.config
+D:\cetaksep\CetakSEP\bin\Debug\CetakSEP.exe
+D:\cetaksep\CetakSEP\bin\Debug\CetakSEP.pdb
+D:\cetaksep\CetakSEP\bin\Debug\NUnit.Framework.dll
+D:\cetaksep\CetakSEP\obj\Debug\CetakSEP.csprojResolveAssemblyReference.cache
+D:\cetaksep\CetakSEP\obj\Debug\CetakSEP.FormSetting.resources
+D:\cetaksep\CetakSEP\obj\Debug\CetakSEP.MainForm.resources
+D:\cetaksep\CetakSEP\obj\Debug\CetakSEP.Properties.Resources.resources
+D:\cetaksep\CetakSEP\obj\Debug\CetakSEP.csproj.GenerateResource.Cache
+D:\cetaksep\CetakSEP\obj\Debug\CetakSEP.exe
+D:\cetaksep\CetakSEP\obj\Debug\CetakSEP.pdb
+D:\DEVELOPER\CetakSEP\CetakSEP\bin\Debug\CetakSEP.exe.config
+D:\DEVELOPER\CetakSEP\CetakSEP\bin\Debug\CetakSEP.exe
+D:\DEVELOPER\CetakSEP\CetakSEP\bin\Debug\CetakSEP.pdb
+D:\DEVELOPER\CetakSEP\CetakSEP\bin\Debug\NUnit.Framework.dll
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.FormSetting.resources
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.MainForm.resources
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.Properties.Resources.resources
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.RujukanForm.resources
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.RujukanRSForm.resources
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.csproj.GenerateResource.Cache
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.exe
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.pdb
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.csprojResolveAssemblyReference.cache
+D:\DEVELOPER\CetakSEP\CetakSEP\obj\Debug\CetakSEP.FormAlert.resources
